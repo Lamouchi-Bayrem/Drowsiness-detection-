@@ -20,6 +20,6 @@ A computer vision system that detects driver drowsiness in real-time using facia
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/drowsiness-detector.git
+git clone https://github.com/Lamouchi-Bayrem/Drowsiness-detection.git
 cd drowsiness-detector
 pip install -r requirements.txt
